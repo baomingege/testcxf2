@@ -1,0 +1,7 @@
+
+spring:
+  datasource:
+    url: jdbc:postgresql://localhost:32770/ecm
+    username: ecm
+    password: ecm
+    driver-class-name: org.postgresql.Driver

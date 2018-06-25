@@ -1,0 +1,6 @@
+com\cc\testcxf2\ServiceConfig.class
+com\cc\testcxf2\repo\PersonsRepo.class
+com\cc\testcxf2\service\PersonsService.class
+com\cc\testcxf2\entity\Persons.class
+com\cc\testcxf2\service\PersonsServiceImp.class
+com\cc\testcxf2\Testcxf2Application.class
